@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tail -fn100 /var/lib/bitcoind/debug.log
